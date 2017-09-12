@@ -1,0 +1,78 @@
+1505120714598	geckodriver	INFO	geckodriver 0.18.0
+1505120714621	geckodriver	INFO	Listening on 127.0.0.1:45867
+1505120715872	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1505120717550	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///opt/firefox/omni.ja!/components/addonManager.js:65
+1505120718944	Marionette	INFO	Enabled via --marionette
+1505120726084	Marionette	INFO	Listening on port 36999
+1505120726352	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505120726534	Marionette	DEBUG	loaded listener.js
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505120726818	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505120728084	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505120728085	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505120729901	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://example.webscraping.com/places/default/search"
+1505120730068	Marionette	DEBUG	Received DOM event "pageshow" for "http://example.webscraping.com/places/default/search"
+1505120730811	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 25400] WARNING: pipe error (3): Connection reset by peer: file /home/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1505121222955	geckodriver	INFO	geckodriver 0.18.0
+1505121222963	geckodriver	INFO	Listening on 127.0.0.1:40161
+1505121223391	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1505121224958	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///opt/firefox/omni.ja!/components/addonManager.js:65
+1505121227156	Marionette	INFO	Enabled via --marionette
+1505121235858	Marionette	INFO	Listening on port 45007
+1505121236112	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505121236274	Marionette	DEBUG	loaded listener.js
+1505121236477	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505121237475	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505121237476	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505121239243	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://example.webscraping.com/places/default/search"
+1505121239255	Marionette	DEBUG	Received DOM event "pageshow" for "http://example.webscraping.com/places/default/search"
+1505121240208	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 25571] WARNING: pipe error (3): Connection reset by peer: file /home/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1505178502936	geckodriver	INFO	geckodriver 0.18.0
+1505178502967	geckodriver	INFO	Listening on 127.0.0.1:45831
+1505178504278	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1505178505123	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///opt/firefox/omni.ja!/components/addonManager.js:65
+1505178506409	Marionette	INFO	Enabled via --marionette
+1505178513585	Marionette	INFO	Listening on port 38141
+1505178513773	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505178513939	Marionette	DEBUG	loaded listener.js
+1505178514202	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505178515135	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505178515136	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505178531128	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1505178770237	Marionette	DEBUG	Received DOM event "pageshow" for "http://example.webscraping.com/places/default/search"
+JavaScript error: http://example.webscraping.com/places/static/js/calendar.js, line 29: ReferenceError: jQuery is not defined
+JavaScript error: http://example.webscraping.com/places/static/js/web2py.js, line 695: ReferenceError: jQuery is not defined
+JavaScript error: http://example.webscraping.com/places/default/search, line 147: ReferenceError: $ is not defined
+JavaScript error: http://example.webscraping.com/places/static/js/bootstrap.min.js, line 6: TypeError: e is not a function
+JavaScript error: http://example.webscraping.com/places/static/js/web2py_bootstrap.js, line 2: ReferenceError: jQuery is not defined
+1505178771095	Marionette	DEBUG	Received DOM event "beforeunload" for "http://example.webscraping.com/places/default/search"
+1505178772061	Marionette	DEBUG	Received DOM event "pagehide" for "http://example.webscraping.com/places/default/search"
+1505178772064	Marionette	DEBUG	Received DOM event "unload" for "http://example.webscraping.com/places/default/search"
+1505178790366	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483649"
+JavaScript error: resource://shield-recipe-client/lib/RecipeRunner.jsm, line 153: TypeError: prefs is undefined
+[Child 3965] WARNING: pipe error (3): Connection reset by peer: file /home/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400C6,name=PContent::Msg_GraphicsError) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1505178794423	geckodriver	INFO	geckodriver 0.18.0
+1505178794430	geckodriver	INFO	Listening on 127.0.0.1:54017
+1505178795666	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1505178796521	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///opt/firefox/omni.ja!/components/addonManager.js:65
+1505178797306	Marionette	INFO	Enabled via --marionette
+1505178801533	Marionette	INFO	Listening on port 34649
+1505178801890	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505178802049	Marionette	DEBUG	loaded listener.js
+1505178802232	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505178803006	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505178803007	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505178806869	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://example.webscraping.com/places/default/search"
+1505178806878	Marionette	DEBUG	Received DOM event "pageshow" for "http://example.webscraping.com/places/default/search"
+1505178807504	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
