@@ -12,6 +12,8 @@ from urllib.error import URLError, HTTPError, ContentTooShortError
 from lxml.html import fromstring
 import os
 
+import http.cookiejar
+
 SLEEP_TIME = 1
 socket.setdefaulttimeout(60)
 
@@ -32,6 +34,7 @@ def download(url, user_agent='wswp', num_retries=2, charset='utf-8', proxy=None)
             proxy (str): proxy url, ex 'http://IP' (default: None)
             num_retries (int): number of retries if a 5xx error is seen (default: 2)
     """
+   
     print('Downloading:', url)
     request = urllib.request.Request(url)
     request.add_header('User-agent', user_agent)
@@ -40,11 +43,43 @@ def download(url, user_agent='wswp', num_retries=2, charset='utf-8', proxy=None)
             proxy_support = urllib.request.ProxyHandler({'http': proxy})
             opener = urllib.request.build_opener(proxy_support)
             urllib.request.install_opener(opener)
+            
+        LOGIN_URL = 'http://www.jobbole.com/wp-admin/admin-ajax.php'
+        LOGIN_EMAIL = 'caicai'
+        LOGIN_PASSWORD = 'asdjkl!@#'
+        
+        
+        postdata = urllib.parse.urlencode({'user_login': LOGIN_EMAIL, 'user_pass': LOGIN_PASSWORD,'action':'user_login'
+            ,'remember_me':'1','redirect_url':'http://www.jobbole.com/'}).encode('utf-8')
+        req = urllib.request.Request(LOGIN_URL,postdata)
+        req.add_header('User-Agent','Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:55.0) Gecko/20100101 Firefox/55.0')
+        #create CookieJar
+        cjar = http.cookiejar.CookieJar()
+        #create opener
+        opener = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(cjar))
+        #open 安装为全局
+        urllib.request.install_opener(opener)
+        
+        file = opener.open(req)
+        data=file.read()
+        file=open('3.html','wb')
+        file.write(data)
+        file.close()                    
+          
+        #url2 = 'http://date.jobbole.com/4510/'
+        #data2=urllib.request.urlopen(url2).read()
+        #fhandle=open('4.html','wb')
+        #fhandle.write(data2)
+        #fhandle.close()  
+          
         resp = urllib.request.urlopen(request)
+        data2=urllib.request.urlopen(url).read()
+        print('data2 = ',data2)
         cs = resp.headers.get_content_charset()
         if not cs:
             cs = charset
-        html = resp.read().decode(cs)
+        #html = resp.read().decode(cs)
+        html = data2.decode(cs)
     except (URLError, HTTPError, ContentTooShortError) as e:
         print('Download error:', e)
         html = None
@@ -102,9 +137,11 @@ def img_callback(url,html):
                     os.makedirs(folder)
                 try:
                     urllib.request.urlretrieve(img,'{}{}.jpg'.format(path,title))  
-##                    file_object = open(path + title +'.txt', 'w')
-##                    file_object.write(thetext)
-##                    file_object.close()
+                    #标题
+                    file_object = open(path + title +'.txt', 'w')
+                    file_object.write(thetext)
+                    file_object.close()
+                    
                 except:
                     pass
                     
@@ -181,6 +218,8 @@ def threaded_crawler(start_url, link_regex, user_agent='wswp', proxies=None,
             cache (dict): cache dict with urls as keys and dicts for responses (default: {})
             scraper_callback: function to be called on url and html content
     """
+      
+    
     if isinstance(start_url, list):
         crawl_queue = start_url
     else:

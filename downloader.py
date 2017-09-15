@@ -3,6 +3,10 @@ import requests
 
 from throttle import Throttle
 
+import urllib.request
+import urllib.parse
+import http.cookiejar
+
 
 class Downloader:
     """ Downloader class to use cache and requests for downloading pages.
@@ -22,6 +26,31 @@ class Downloader:
         self.cache = cache
         self.num_retries = None  # we will set this per request
         self.timeout = timeout
+        
+        
+        LOGIN_URL = 'http://www.jobbole.com/wp-admin/admin-ajax.php'
+        LOGIN_EMAIL = 'caicai'
+        LOGIN_PASSWORD = 'asdjkl!@#'
+            
+            
+        postdata = urllib.parse.urlencode({'user_login': LOGIN_EMAIL, 'user_pass': LOGIN_PASSWORD,'action':'user_login'
+                ,'remember_me':'1','redirect_url':'http://www.jobbole.com/'}).encode('utf-8')
+        req = urllib.request.Request(LOGIN_URL,postdata)
+        req.add_header('User-Agent','Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:55.0) Gecko/20100101 Firefox/55.0')
+        urllib.request.ProxyHandler(proxies=proxies)
+        #create CookieJar
+        cjar = http.cookiejar.CookieJar()
+        #create opener
+        opener = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(cjar))
+        #open 安装为全局
+        urllib.request.install_opener(opener)
+            
+        file = opener.open(req)
+        data=file.read()
+        file=open('3.html','wb')
+        file.write(data)
+        file.close() 
+            
 
     def __call__(self, url, num_retries=2):
         """ Call the downloader class, which will return HTML from cache
@@ -63,6 +92,10 @@ class Downloader:
             resp = requests.get(url, headers=headers, proxies=proxies,
                                 timeout=self.timeout)
             html = resp.text
+            
+            
+            html=urllib.request.urlopen(url).read().decode('utf-8')
+            
             if resp.status_code >= 400:
                 print('Download error:', resp.text)
                 html = None

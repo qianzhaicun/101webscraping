@@ -375,3 +375,803 @@ JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCK
 1505207792293	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
 1505207809182	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
 [Child 3132] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-KXh8wm/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1505269799231	geckodriver	INFO	geckodriver 0.18.0
+1505269799254	geckodriver	INFO	Listening on 127.0.0.1:54923
+1505269800559	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1505269803367	Marionette	INFO	Enabled via --marionette
+1505269811954	Marionette	INFO	Listening on port 46819
+1505269812081	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505269812188	Marionette	DEBUG	loaded listener.js
+1505269812395	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505269812995	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505269812996	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505269815869	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.zhihu.com/#signin"
+1505269820601	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.zhihu.com/#signin"
+1505269823236	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505269839591	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505269993847	geckodriver	INFO	geckodriver 0.18.0
+1505269993855	geckodriver	INFO	Listening on 127.0.0.1:57851
+1505269994229	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1505269996060	Marionette	INFO	Enabled via --marionette
+1505270002218	Marionette	INFO	Listening on port 38503
+1505270002433	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505270002680	Marionette	DEBUG	loaded listener.js
+1505270002854	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505270003439	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505270003442	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505270005561	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.zhihu.com/#signin"
+1505270009317	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.zhihu.com/#signin"
+1505270012186	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505270028633	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505270081778	geckodriver	INFO	geckodriver 0.18.0
+1505270081786	geckodriver	INFO	Listening on 127.0.0.1:58703
+1505270083020	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1505270084704	Marionette	INFO	Enabled via --marionette
+1505270092120	Marionette	INFO	Listening on port 42157
+1505270092272	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505270092404	Marionette	DEBUG	loaded listener.js
+1505270092549	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505270093172	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505270093176	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505270095668	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.zhihu.com/#signin"
+1505270099857	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.zhihu.com/#signin"
+1505270102431	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505270118921	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505272501148	geckodriver	INFO	geckodriver 0.18.0
+1505272501158	geckodriver	INFO	Listening on 127.0.0.1:51491
+1505272502417	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1505272504426	Marionette	INFO	Enabled via --marionette
+1505272510299	Marionette	INFO	Listening on port 36955
+1505272510656	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505272510803	Marionette	DEBUG	loaded listener.js
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505272511074	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505272511630	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505272511631	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505272514160	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.zhihu.com/#signin"
+1505272518581	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.zhihu.com/#signin"
+1505272521203	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505272538284	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Sandbox: Unexpected EOF, op 0 flags 0302 path /dev/shm/org.chromium.j8mI9z
+1505272562551	geckodriver	INFO	geckodriver 0.18.0
+1505272562563	geckodriver	INFO	Listening on 127.0.0.1:56199
+1505272563833	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1505272565476	Marionette	INFO	Enabled via --marionette
+1505272571221	Marionette	INFO	Listening on port 46639
+1505272571390	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505272571533	Marionette	DEBUG	loaded listener.js
+1505272571868	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505272572409	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505272572410	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505272574610	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.zhihu.com/#signin"
+1505272578456	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.zhihu.com/#signin"
+1505272581118	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505272597980	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Child 5954] WARNING: pipe error (19): Connection reset by peer: file /build/firefox-KXh8wm/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1505272637130	geckodriver	INFO	geckodriver 0.18.0
+1505272637137	geckodriver	INFO	Listening on 127.0.0.1:46941
+1505272638444	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1505272640127	Marionette	INFO	Enabled via --marionette
+1505272645282	Marionette	INFO	Listening on port 43165
+1505272645751	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505272645889	Marionette	DEBUG	loaded listener.js
+1505272646034	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505272646634	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505272646638	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505272648858	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.zhihu.com/#signin"
+1505272653332	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.zhihu.com/#signin"
+1505272656142	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505272672818	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[Child 6104] WARNING: pipe error (19): Connection reset by peer: file /build/firefox-KXh8wm/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 6104] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-KXh8wm/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1505272713079	geckodriver	INFO	geckodriver 0.18.0
+1505272713087	geckodriver	INFO	Listening on 127.0.0.1:56837
+1505272714337	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1505272716047	Marionette	INFO	Enabled via --marionette
+1505272721917	Marionette	INFO	Listening on port 35753
+1505272722026	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505272722281	Marionette	DEBUG	loaded listener.js
+1505272722538	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505272723036	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505272723037	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505272724770	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.zhihu.com/#signin"
+1505272729029	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.zhihu.com/#signin"
+1505272731774	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505272748753	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505272923681	geckodriver	INFO	geckodriver 0.18.0
+1505272923697	geckodriver	INFO	Listening on 127.0.0.1:39895
+1505272925243	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1505272927851	Marionette	INFO	Enabled via --marionette
+1505272940082	Marionette	INFO	Listening on port 33179
+1505272940228	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505272940518	Marionette	DEBUG	loaded listener.js
+1505272940750	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505272941448	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505272941449	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505272944604	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.zhihu.com/#signin"
+1505272952662	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.zhihu.com/#signin"
+1505272955309	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505272972034	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Child 6379] WARNING: pipe error (21): Connection reset by peer: file /build/firefox-KXh8wm/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1505273338385	geckodriver	INFO	geckodriver 0.18.0
+1505273338395	geckodriver	INFO	Listening on 127.0.0.1:35101
+1505273339885	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1505273343105	Marionette	INFO	Enabled via --marionette
+1505273351390	Marionette	INFO	Listening on port 33033
+1505273351543	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505273351750	Marionette	DEBUG	loaded listener.js
+1505273351928	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505273352547	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505273352548	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505273355853	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.zhihu.com/#signin"
+1505273363252	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.zhihu.com/#signin"
+1505273366243	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505273383202	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Child 6569] WARNING: pipe error (36): Connection reset by peer: file /build/firefox-KXh8wm/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 6569] WARNING: pipe error (19): Connection reset by peer: file /build/firefox-KXh8wm/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 6569] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-KXh8wm/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1505273471077	geckodriver	INFO	geckodriver 0.18.0
+1505273471086	geckodriver	INFO	Listening on 127.0.0.1:55283
+1505273472607	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1505273475228	Marionette	INFO	Enabled via --marionette
+1505273484471	Marionette	INFO	Listening on port 34125
+1505273484668	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505273484922	Marionette	DEBUG	loaded listener.js
+1505273485202	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505273485922	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505273485923	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505273489636	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.zhihu.com/#signin"
+1505273496894	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.zhihu.com/#signin"
+1505273499811	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505273517022	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Child 6711] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-KXh8wm/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+1505273722158	geckodriver	INFO	geckodriver 0.18.0
+1505273722168	geckodriver	INFO	Listening on 127.0.0.1:34081
+1505273723855	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1505273726882	Marionette	INFO	Enabled via --marionette
+1505273736266	Marionette	INFO	Listening on port 43839
+1505273736397	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505273736753	Marionette	DEBUG	loaded listener.js
+1505273737141	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505273737861	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505273737862	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505273741173	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.zhihu.com/#signin"
+1505273747903	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.zhihu.com/#signin"
+1505273751198	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505273771354	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505273979956	geckodriver	INFO	geckodriver 0.18.0
+1505273979964	geckodriver	INFO	Listening on 127.0.0.1:47111
+1505273981241	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1505273983013	Marionette	INFO	Enabled via --marionette
+1505273989109	Marionette	INFO	Listening on port 36665
+1505273989296	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505273989439	Marionette	DEBUG	loaded listener.js
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505273989648	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505273990235	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505273990236	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505273992402	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.zhihu.com/#signin"
+1505273997351	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.zhihu.com/#signin"
+1505273999943	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505274016877	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505274523246	geckodriver	INFO	geckodriver 0.18.0
+1505274523256	geckodriver	INFO	Listening on 127.0.0.1:53935
+1505274524505	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1505274526258	Marionette	INFO	Enabled via --marionette
+1505274533185	Marionette	INFO	Listening on port 40707
+1505274533334	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505274533486	Marionette	DEBUG	loaded listener.js
+1505274533584	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505274534098	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505274534098	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505274536191	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.zhihu.com/#signin"
+1505274540565	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.zhihu.com/#signin"
+1505274543634	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505274560887	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505274650406	geckodriver	INFO	geckodriver 0.18.0
+1505274650413	geckodriver	INFO	Listening on 127.0.0.1:42913
+1505274651672	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1505274653322	Marionette	INFO	Enabled via --marionette
+1505274659137	Marionette	INFO	Listening on port 38111
+1505274659718	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505274659903	Marionette	DEBUG	loaded listener.js
+1505274660257	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505274660738	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505274660745	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505274663197	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.zhihu.com/#signin"
+1505274667408	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.zhihu.com/#signin"
+1505274670125	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505274687716	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505274746125	geckodriver	INFO	geckodriver 0.18.0
+1505274746132	geckodriver	INFO	Listening on 127.0.0.1:58669
+1505274747403	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1505274749138	Marionette	INFO	Enabled via --marionette
+1505274754917	Marionette	INFO	Listening on port 33273
+1505274755253	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505274755429	Marionette	DEBUG	loaded listener.js
+1505274755683	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505274756260	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505274756261	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505274758615	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.zhihu.com/#signin"
+1505274763130	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.zhihu.com/#signin"
+1505274765844	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505274782271	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Child 7504] WARNING: pipe error (19): Connection reset by peer: file /build/firefox-KXh8wm/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 7504] WARNING: pipe error (36): Connection reset by peer: file /build/firefox-KXh8wm/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 7504] WARNING: pipe error: Broken pipe: file /build/firefox-KXh8wm/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 7504] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-KXh8wm/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1505274948281	geckodriver	INFO	geckodriver 0.18.0
+1505274948290	geckodriver	INFO	Listening on 127.0.0.1:54955
+1505274949754	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1505274952916	Marionette	INFO	Enabled via --marionette
+1505274962122	Marionette	INFO	Listening on port 42359
+1505274962756	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505274963048	Marionette	DEBUG	loaded listener.js
+1505274963429	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505274964159	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505274964165	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505274968718	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.zhihu.com/#signin"
+1505274975413	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.zhihu.com/#signin"
+1505274979357	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505274997695	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Child 7666] WARNING: pipe error (36): Connection reset by peer: file /build/firefox-KXh8wm/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 7666] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-KXh8wm/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1505275193569	geckodriver	INFO	geckodriver 0.18.0
+1505275193582	geckodriver	INFO	Listening on 127.0.0.1:34471
+1505275195000	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1505275198383	Marionette	INFO	Enabled via --marionette
+1505275208360	Marionette	INFO	Listening on port 35979
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505275208483	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505275208796	Marionette	DEBUG	loaded listener.js
+1505275209061	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505275209629	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505275209631	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505275213039	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.zhihu.com/#signin"
+1505275220746	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.zhihu.com/#signin"
+1505275223365	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505275240839	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505275318230	geckodriver	INFO	geckodriver 0.18.0
+1505275318238	geckodriver	INFO	Listening on 127.0.0.1:40859
+1505275319863	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1505275322558	Marionette	INFO	Enabled via --marionette
+1505275330449	Marionette	INFO	Listening on port 45781
+1505275330572	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505275330804	Marionette	DEBUG	loaded listener.js
+1505275331025	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505275331703	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505275331704	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505275335446	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.zhihu.com/#signin"
+1505275341790	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.zhihu.com/#signin"
+1505275344944	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505275362145	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505282859665	geckodriver	INFO	geckodriver 0.18.0
+1505282859677	geckodriver	INFO	Listening on 127.0.0.1:58077
+1505282861198	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1505282864434	Marionette	INFO	Enabled via --marionette
+1505282875016	Marionette	INFO	Listening on port 38029
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505282875161	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505282875395	Marionette	DEBUG	loaded listener.js
+1505282875846	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505282876352	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505282876356	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505282879796	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.zhihu.com/#signin"
+1505282885529	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.zhihu.com/#signin"
+1505282888597	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505282905730	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505282982214	geckodriver	INFO	geckodriver 0.18.0
+1505282982222	geckodriver	INFO	Listening on 127.0.0.1:54897
+1505282983701	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1505282986842	Marionette	INFO	Enabled via --marionette
+1505282997929	Marionette	INFO	Listening on port 34691
+1505282998099	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505282998352	Marionette	DEBUG	loaded listener.js
+1505282998554	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505282999949	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505282999950	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505283003309	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.zhihu.com/#signin"
+1505283010075	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.zhihu.com/#signin"
+1505283014823	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505283032091	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Child 8958] WARNING: pipe error (36): Connection reset by peer: file /build/firefox-KXh8wm/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 8958] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-KXh8wm/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1505283128865	geckodriver	INFO	geckodriver 0.18.0
+1505283128872	geckodriver	INFO	Listening on 127.0.0.1:33609
+1505283130449	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1505283133561	Marionette	INFO	Enabled via --marionette
+1505283141880	Marionette	INFO	Listening on port 46125
+1505283142132	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505283142403	Marionette	DEBUG	loaded listener.js
+1505283142570	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505283143196	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505283143197	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505283147606	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.zhihu.com/#signin"
+1505283153406	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.zhihu.com/#signin"
+1505283157142	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505283174408	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Child 9086] WARNING: pipe error (36): Connection reset by peer: file /build/firefox-KXh8wm/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 9086] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-KXh8wm/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1505283218298	geckodriver	INFO	geckodriver 0.18.0
+1505283218314	geckodriver	INFO	Listening on 127.0.0.1:35943
+1505283219876	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1505283222532	Marionette	INFO	Enabled via --marionette
+1505283231663	Marionette	INFO	Listening on port 35977
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505283231801	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505283232119	Marionette	DEBUG	loaded listener.js
+1505283232383	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505283232977	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505283232978	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505283236363	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.zhihu.com/#signin"
+1505283241397	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.zhihu.com/#signin"
+1505283244351	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505283260908	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Child 9210] WARNING: pipe error (36): Connection reset by peer: file /build/firefox-KXh8wm/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 9210] WARNING: pipe error (19): Connection reset by peer: file /build/firefox-KXh8wm/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 9210] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-KXh8wm/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1505285503040	geckodriver	INFO	geckodriver 0.18.0
+1505285503083	geckodriver	INFO	Listening on 127.0.0.1:46001
+1505285504394	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1505285510760	Marionette	INFO	Enabled via --marionette
+1505285521971	Marionette	INFO	Listening on port 44045
+1505285522113	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505285522259	Marionette	DEBUG	loaded listener.js
+1505285522536	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505285522736	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505285522737	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505285526930	Marionette	DEBUG	Received DOM event "pageshow" for "http://hotel.qunar.com/"
+1505285527551	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://hotel.qunar.com/"
+1505285527987	Marionette	DEBUG	Received DOM event "pageshow" for "http://hotel.qunar.com/"
+1505285530856	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1505285530858	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://hotel.qunar.com/render/ga_new.jsp"
+1505285530975	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.qunar.com/vataframe/b.html?_=20120808#rightMiddleAd_QAD"
+1505285531001	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.qunar.com/vataframe/b.html?_=20120808#rightMiddleAd_QAD"
+1505285531041	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://hotel.qunar.com/render/googlesem.jsp?lable=Ln-dCOin2AgQvKmD-AM&params=%7B%22AccessPage%22%3A%22home%22%7D&referer=&seq=undefined&location=%E5%8C%97%E4%BA%AC&hotelGrade=undefined&pagetype=home"
+1505285531089	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://tuan.qunar.com/ext/sact/YfiMFn?v=1505285526517#isWider=1"
+1505285531100	Marionette	DEBUG	Received DOM event "pageshow" for "http://tuan.qunar.com/ext/sact/YfiMFn?v=1505285526517#isWider=1"
+1505285531117	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.qunar.com/vataframe/b.html?_=20120808#topAD"
+1505285531120	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.qunar.com/vataframe/b.html?_=20120808#topAD"
+1505285531195	Marionette	DEBUG	Received DOM event "pageshow" for "http://hotel.qunar.com/render/ga_new.jsp"
+1505285531209	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://googleads.g.doubleclick.net/pagead/viewthroughconversion/969017713/?random=1505285530821&cv=8&fst=1505285530821&num=1&fmt=1&guid=ON&u_h=1080&u_w=1920&u_ah=993&u_aw=1920&u_cd=24&u_his=1&u_tz=480&u_java=false&u_nplug=0&u_nmime=0&data=dynx_itemid%3Dundefined%3Bdynx_locid%3D%E5%8C%97%E4%BA%AC%3Bdynx_pagetype%3Dhome%3Bdynx_star%3Dundefined&frm=1&url=http%3A%2F%2Fhotel.qunar.com%2F&ref=http%3A%2F%2Fhotel.qunar.com%2F"
+1505285531214	Marionette	DEBUG	Received DOM event "pageshow" for "http://googleads.g.doubleclick.net/pagead/viewthroughconversion/969017713/?random=1505285530821&cv=8&fst=1505285530821&num=1&fmt=1&guid=ON&u_h=1080&u_w=1920&u_ah=993&u_aw=1920&u_cd=24&u_his=1&u_tz=480&u_java=false&u_nplug=0&u_nmime=0&data=dynx_itemid%3Dundefined%3Bdynx_locid%3D%E5%8C%97%E4%BA%AC%3Bdynx_pagetype%3Dhome%3Bdynx_star%3Dundefined&frm=1&url=http%3A%2F%2Fhotel.qunar.com%2F&ref=http%3A%2F%2Fhotel.qunar.com%2F"
+1505285531217	Marionette	DEBUG	Received DOM event "pageshow" for "http://hotel.qunar.com/render/googlesem.jsp?lable=Ln-dCOin2AgQvKmD-AM&params=%7B%22AccessPage%22%3A%22home%22%7D&referer=&seq=undefined&location=%E5%8C%97%E4%BA%AC&hotelGrade=undefined&pagetype=home"
+1505285542412	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://history.qunar.com/history/newhistory.html?v=20121012"
+1505285542424	Marionette	DEBUG	Received DOM event "pageshow" for "http://history.qunar.com/history/newhistory.html?v=20121012"
+1505285542438	Marionette	DEBUG	Received DOM event "pageshow" for "http://hotel.qunar.com/"
+JavaScript warning: http://static.mediav.com/mv.js, line 1: unreachable code after return statement
+1505285544440	Marionette	DEBUG	Received DOM event "pagehide" for "http://hotel.qunar.com/render/ga_new.jsp#refresh=0"
+1505285544684	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505285546074	Marionette	DEBUG	Received DOM event "beforeunload" for "http://hotel.qunar.com/"
+1505285546224	Marionette	DEBUG	Received DOM event "hashchange" for "http://hotel.qunar.com/#"
+JavaScript warning: http://hotel.qunar.com/city/shanghai_city/#fromDate=2017-09-13&cityurl=&from=qunarHotel&toDate=2017-09-14&QHFP=ZSI0A3C5BB09, line 67: String.trim is deprecated; use String.prototype.trim instead
+JavaScript warning: http://te.hotel.qunar.com/render/te, line 1: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript warning: http://te.hotel.qunar.com/render/te line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: http://static.mediav.com/mv.js, line 1: unreachable code after return statement
+1505285922449	geckodriver	INFO	geckodriver 0.18.0
+1505285922536	geckodriver	INFO	Listening on 127.0.0.1:32945
+1505285924245	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1505285936343	Marionette	INFO	Enabled via --marionette
+1505285954277	Marionette	INFO	Listening on port 36253
+1505285954404	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505285954598	Marionette	DEBUG	loaded listener.js
+1505285954906	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505285955134	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505285955134	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505285960931	Marionette	DEBUG	Received DOM event "pageshow" for "http://hotel.qunar.com/"
+1505285963312	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://hotel.qunar.com/"
+1505285963967	Marionette	DEBUG	Received DOM event "pageshow" for "http://hotel.qunar.com/"
+1505285965991	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1505285966052	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://hotel.qunar.com/render/ga_new.jsp"
+1505285966055	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://hotel.qunar.com/render/googlesem.jsp?lable=Ln-dCOin2AgQvKmD-AM&params=%7B%22AccessPage%22%3A%22home%22%7D&referer=&seq=undefined&location=%E5%8C%97%E4%BA%AC&hotelGrade=undefined&pagetype=home"
+1505285966091	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://tuan.qunar.com/ext/sact/YfiMFn?v=1505285959546#isWider=1"
+1505285966140	Marionette	DEBUG	Received DOM event "pageshow" for "http://tuan.qunar.com/ext/sact/YfiMFn?v=1505285959546#isWider=1"
+1505285966240	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://history.qunar.com/history/newhistory.html?v=20121012"
+1505285966257	Marionette	DEBUG	Received DOM event "pageshow" for "http://history.qunar.com/history/newhistory.html?v=20121012"
+1505285966533	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.qunar.com/vataframe/b.html?_=20120808#rightMiddleAd_QAD"
+1505285966581	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.qunar.com/vataframe/b.html?_=20120808#rightMiddleAd_QAD"
+1505285966823	Marionette	DEBUG	Received DOM event "pageshow" for "http://hotel.qunar.com/render/ga_new.jsp"
+1505285966873	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.qunar.com/vataframe/b.html?_=20120808#topAD"
+1505285966889	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.qunar.com/vataframe/b.html?_=20120808#topAD"
+1505285966924	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://googleads.g.doubleclick.net/pagead/viewthroughconversion/969017713/?random=1505285965632&cv=8&fst=1505285965632&num=1&fmt=1&guid=ON&u_h=1080&u_w=1920&u_ah=993&u_aw=1920&u_cd=24&u_his=1&u_tz=480&u_java=false&u_nplug=0&u_nmime=0&data=dynx_itemid%3Dundefined%3Bdynx_locid%3D%E5%8C%97%E4%BA%AC%3Bdynx_pagetype%3Dhome%3Bdynx_star%3Dundefined&frm=1&url=http%3A%2F%2Fhotel.qunar.com%2F&ref=http%3A%2F%2Fhotel.qunar.com%2F"
+1505285966929	Marionette	DEBUG	Received DOM event "pageshow" for "http://googleads.g.doubleclick.net/pagead/viewthroughconversion/969017713/?random=1505285965632&cv=8&fst=1505285965632&num=1&fmt=1&guid=ON&u_h=1080&u_w=1920&u_ah=993&u_aw=1920&u_cd=24&u_his=1&u_tz=480&u_java=false&u_nplug=0&u_nmime=0&data=dynx_itemid%3Dundefined%3Bdynx_locid%3D%E5%8C%97%E4%BA%AC%3Bdynx_pagetype%3Dhome%3Bdynx_star%3Dundefined&frm=1&url=http%3A%2F%2Fhotel.qunar.com%2F&ref=http%3A%2F%2Fhotel.qunar.com%2F"
+1505285966934	Marionette	DEBUG	Received DOM event "pageshow" for "http://hotel.qunar.com/render/googlesem.jsp?lable=Ln-dCOin2AgQvKmD-AM&params=%7B%22AccessPage%22%3A%22home%22%7D&referer=&seq=undefined&location=%E5%8C%97%E4%BA%AC&hotelGrade=undefined&pagetype=home"
+1505285966987	Marionette	DEBUG	Received DOM event "pageshow" for "http://hotel.qunar.com/"
+JavaScript warning: http://static.mediav.com/mv.js, line 1: unreachable code after return statement
+1505285973140	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505285974359	Marionette	DEBUG	Received DOM event "beforeunload" for "http://hotel.qunar.com/"
+1505285974453	Marionette	DEBUG	Received DOM event "hashchange" for "http://hotel.qunar.com/#"
+JavaScript warning: http://hotel.qunar.com/city/shanghai_city/#fromDate=2017-09-13&cityurl=&from=qunarHotel&toDate=2017-09-14&QHFP=ZSI0A3D69F17, line 67: String.trim is deprecated; use String.prototype.trim instead
+JavaScript warning: http://te.hotel.qunar.com/render/te, line 1: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript warning: http://te.hotel.qunar.com/render/te line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: http://static.mediav.com/mv.js, line 1: unreachable code after return statement
+1505286087138	geckodriver	INFO	geckodriver 0.18.0
+1505286087161	geckodriver	INFO	Listening on 127.0.0.1:36485
+1505286087938	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1505286093227	Marionette	INFO	Enabled via --marionette
+1505286108610	Marionette	INFO	Listening on port 33499
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505286108728	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505286109237	Marionette	DEBUG	loaded listener.js
+1505286109703	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505286109976	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505286109976	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505286113575	Marionette	DEBUG	Received DOM event "pageshow" for "http://hotel.qunar.com/"
+1505286115287	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://hotel.qunar.com/"
+1505286116956	Marionette	DEBUG	Received DOM event "pageshow" for "http://hotel.qunar.com/"
+1505286119374	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://history.qunar.com/history/newhistory.html?v=20121012"
+1505286119442	Marionette	DEBUG	Received DOM event "pageshow" for "http://history.qunar.com/history/newhistory.html?v=20121012"
+1505286120182	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://hotel.qunar.com/render/ga_new.jsp"
+1505286120537	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1505286120640	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://hotel.qunar.com/render/googlesem.jsp?lable=Ln-dCOin2AgQvKmD-AM&params=%7B%22AccessPage%22%3A%22home%22%7D&referer=&seq=undefined&location=%E5%8C%97%E4%BA%AC&hotelGrade=undefined&pagetype=home"
+1505286120713	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://tuan.qunar.com/ext/sact/YfiMFn?v=1505286112942#isWider=1"
+1505286120729	Marionette	DEBUG	Received DOM event "pageshow" for "http://tuan.qunar.com/ext/sact/YfiMFn?v=1505286112942#isWider=1"
+1505286120770	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.qunar.com/vataframe/b.html?_=20120808#rightMiddleAd_QAD"
+1505286120781	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.qunar.com/vataframe/b.html?_=20120808#rightMiddleAd_QAD"
+1505286121122	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.qunar.com/vataframe/b.html?_=20120808#topAD"
+1505286121130	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.qunar.com/vataframe/b.html?_=20120808#topAD"
+1505286121211	Marionette	DEBUG	Received DOM event "pageshow" for "http://hotel.qunar.com/render/ga_new.jsp"
+1505286121212	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://googleads.g.doubleclick.net/pagead/viewthroughconversion/969017713/?random=1505286119255&cv=8&fst=1505286119255&num=1&fmt=1&guid=ON&u_h=1080&u_w=1920&u_ah=993&u_aw=1920&u_cd=24&u_his=1&u_tz=480&u_java=false&u_nplug=0&u_nmime=0&data=dynx_itemid%3Dundefined%3Bdynx_locid%3D%E5%8C%97%E4%BA%AC%3Bdynx_pagetype%3Dhome%3Bdynx_star%3Dundefined&frm=1&url=http%3A%2F%2Fhotel.qunar.com%2F&ref=http%3A%2F%2Fhotel.qunar.com%2F"
+1505286121221	Marionette	DEBUG	Received DOM event "pageshow" for "http://googleads.g.doubleclick.net/pagead/viewthroughconversion/969017713/?random=1505286119255&cv=8&fst=1505286119255&num=1&fmt=1&guid=ON&u_h=1080&u_w=1920&u_ah=993&u_aw=1920&u_cd=24&u_his=1&u_tz=480&u_java=false&u_nplug=0&u_nmime=0&data=dynx_itemid%3Dundefined%3Bdynx_locid%3D%E5%8C%97%E4%BA%AC%3Bdynx_pagetype%3Dhome%3Bdynx_star%3Dundefined&frm=1&url=http%3A%2F%2Fhotel.qunar.com%2F&ref=http%3A%2F%2Fhotel.qunar.com%2F"
+1505286121228	Marionette	DEBUG	Received DOM event "pageshow" for "http://hotel.qunar.com/render/googlesem.jsp?lable=Ln-dCOin2AgQvKmD-AM&params=%7B%22AccessPage%22%3A%22home%22%7D&referer=&seq=undefined&location=%E5%8C%97%E4%BA%AC&hotelGrade=undefined&pagetype=home"
+1505286121425	Marionette	DEBUG	Received DOM event "pageshow" for "http://hotel.qunar.com/"
+JavaScript warning: http://static.mediav.com/mv.js, line 1: unreachable code after return statement
+1505286129871	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505286132435	Marionette	DEBUG	Received DOM event "beforeunload" for "http://hotel.qunar.com/"
+1505286132548	Marionette	DEBUG	Received DOM event "hashchange" for "http://hotel.qunar.com/#"
+JavaScript warning: http://hotel.qunar.com/city/shanghai_city/#fromDate=2017-09-13&cityurl=shanghai_city&from=qunarHotel&toDate=2017-09-14&QHFP=ZSI0A3DCACB0, line 67: String.trim is deprecated; use String.prototype.trim instead
+JavaScript warning: http://te.hotel.qunar.com/render/te, line 1: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript warning: http://te.hotel.qunar.com/render/te line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: http://static.mediav.com/mv.js, line 1: unreachable code after return statement
+[Parent 9926] WARNING: pipe error (73): Connection reset by peer: file /build/firefox-KXh8wm/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+JavaScript warning: http://static.mediav.com/mv.js, line 1: unreachable code after return statement
+1505287550219	geckodriver	INFO	geckodriver 0.18.0
+1505287550245	geckodriver	INFO	Listening on 127.0.0.1:58061
+1505287550878	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1505287555708	Marionette	INFO	Enabled via --marionette
+1505287564862	Marionette	INFO	Listening on port 45381
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505287565020	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505287565321	Marionette	DEBUG	loaded listener.js
+1505287565615	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505287565808	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505287565809	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505287568016	Marionette	DEBUG	Received DOM event "pageshow" for "http://hotel.qunar.com/"
+1505287568984	Marionette	DEBUG	Received DOM event "pageshow" for "http://hotel.qunar.com/"
+1505287569445	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://hotel.qunar.com/"
+1505287570299	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://history.qunar.com/history/newhistory.html?v=20121012"
+1505287570320	Marionette	DEBUG	Received DOM event "pageshow" for "http://history.qunar.com/history/newhistory.html?v=20121012"
+1505287570894	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1505287571058	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://hotel.qunar.com/render/ga_new.jsp"
+1505287571169	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://tuan.qunar.com/ext/sact/YfiMFn?v=1505287567616#isWider=1"
+1505287571198	Marionette	DEBUG	Received DOM event "pageshow" for "http://tuan.qunar.com/ext/sact/YfiMFn?v=1505287567616#isWider=1"
+1505287571200	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.qunar.com/vataframe/b.html?_=20120808#rightMiddleAd_QAD"
+1505287571205	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.qunar.com/vataframe/b.html?_=20120808#rightMiddleAd_QAD"
+1505287571217	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://hotel.qunar.com/render/googlesem.jsp?lable=Ln-dCOin2AgQvKmD-AM&params=%7B%22AccessPage%22%3A%22home%22%7D&referer=&seq=undefined&location=%E5%8C%97%E4%BA%AC&hotelGrade=undefined&pagetype=home"
+1505287571486	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.qunar.com/vataframe/b.html?_=20120808#topAD"
+1505287571494	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.qunar.com/vataframe/b.html?_=20120808#topAD"
+1505287571613	Marionette	DEBUG	Received DOM event "pageshow" for "http://hotel.qunar.com/render/ga_new.jsp"
+1505287571635	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://googleads.g.doubleclick.net/pagead/viewthroughconversion/969017713/?random=1505287570918&cv=8&fst=1505287570918&num=1&fmt=1&guid=ON&eid=376635470&u_h=1080&u_w=1920&u_ah=993&u_aw=1920&u_cd=24&u_his=1&u_tz=480&u_java=false&u_nplug=0&u_nmime=0&data=dynx_itemid%3Dundefined%3Bdynx_locid%3D%E5%8C%97%E4%BA%AC%3Bdynx_pagetype%3Dhome%3Bdynx_star%3Dundefined&frm=1&url=http%3A%2F%2Fhotel.qunar.com%2F&ref=http%3A%2F%2Fhotel.qunar.com%2F"
+1505287571643	Marionette	DEBUG	Received DOM event "pageshow" for "http://googleads.g.doubleclick.net/pagead/viewthroughconversion/969017713/?random=1505287570918&cv=8&fst=1505287570918&num=1&fmt=1&guid=ON&eid=376635470&u_h=1080&u_w=1920&u_ah=993&u_aw=1920&u_cd=24&u_his=1&u_tz=480&u_java=false&u_nplug=0&u_nmime=0&data=dynx_itemid%3Dundefined%3Bdynx_locid%3D%E5%8C%97%E4%BA%AC%3Bdynx_pagetype%3Dhome%3Bdynx_star%3Dundefined&frm=1&url=http%3A%2F%2Fhotel.qunar.com%2F&ref=http%3A%2F%2Fhotel.qunar.com%2F"
+1505287571662	Marionette	DEBUG	Received DOM event "pageshow" for "http://hotel.qunar.com/render/googlesem.jsp?lable=Ln-dCOin2AgQvKmD-AM&params=%7B%22AccessPage%22%3A%22home%22%7D&referer=&seq=undefined&location=%E5%8C%97%E4%BA%AC&hotelGrade=undefined&pagetype=home"
+1505287571687	Marionette	DEBUG	Received DOM event "pageshow" for "http://hotel.qunar.com/"
+JavaScript warning: http://static.mediav.com/mv.js, line 1: unreachable code after return statement
+1505287607087	geckodriver	INFO	geckodriver 0.18.0
+1505287607098	geckodriver	INFO	Listening on 127.0.0.1:35039
+1505287607601	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1505287609851	Marionette	INFO	Enabled via --marionette
+1505287617662	Marionette	INFO	Listening on port 33243
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505287617805	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505287618004	Marionette	DEBUG	loaded listener.js
+1505287618218	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505287618397	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505287618399	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505287620650	Marionette	DEBUG	Received DOM event "pageshow" for "http://hotel.qunar.com/"
+1505287621671	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://hotel.qunar.com/"
+1505287622071	Marionette	DEBUG	Received DOM event "pageshow" for "http://hotel.qunar.com/"
+1505287623178	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1505287624170	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://hotel.qunar.com/render/ga_new.jsp"
+1505287624396	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://tuan.qunar.com/ext/sact/YfiMFn?v=1505287620317#isWider=1"
+1505287624408	Marionette	DEBUG	Received DOM event "pageshow" for "http://tuan.qunar.com/ext/sact/YfiMFn?v=1505287620317#isWider=1"
+1505287624873	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://hotel.qunar.com/render/googlesem.jsp?lable=Ln-dCOin2AgQvKmD-AM&params=%7B%22AccessPage%22%3A%22home%22%7D&referer=&seq=undefined&location=%E5%8C%97%E4%BA%AC&hotelGrade=undefined&pagetype=home"
+1505287624874	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.qunar.com/vataframe/b.html?_=20120808#rightMiddleAd_QAD"
+1505287624885	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.qunar.com/vataframe/b.html?_=20120808#rightMiddleAd_QAD"
+1505287625160	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.qunar.com/vataframe/b.html?_=20120808#topAD"
+1505287625207	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.qunar.com/vataframe/b.html?_=20120808#topAD"
+1505287625304	Marionette	DEBUG	Received DOM event "pageshow" for "http://hotel.qunar.com/render/ga_new.jsp"
+1505287625360	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://googleads.g.doubleclick.net/pagead/viewthroughconversion/969017713/?random=1505287624122&cv=8&fst=1505287624122&num=1&fmt=1&guid=ON&u_h=1080&u_w=1920&u_ah=993&u_aw=1920&u_cd=24&u_his=1&u_tz=480&u_java=false&u_nplug=0&u_nmime=0&data=dynx_itemid%3Dundefined%3Bdynx_locid%3D%E5%8C%97%E4%BA%AC%3Bdynx_pagetype%3Dhome%3Bdynx_star%3Dundefined&frm=1&url=http%3A%2F%2Fhotel.qunar.com%2F&ref=http%3A%2F%2Fhotel.qunar.com%2F"
+1505287625369	Marionette	DEBUG	Received DOM event "pageshow" for "http://googleads.g.doubleclick.net/pagead/viewthroughconversion/969017713/?random=1505287624122&cv=8&fst=1505287624122&num=1&fmt=1&guid=ON&u_h=1080&u_w=1920&u_ah=993&u_aw=1920&u_cd=24&u_his=1&u_tz=480&u_java=false&u_nplug=0&u_nmime=0&data=dynx_itemid%3Dundefined%3Bdynx_locid%3D%E5%8C%97%E4%BA%AC%3Bdynx_pagetype%3Dhome%3Bdynx_star%3Dundefined&frm=1&url=http%3A%2F%2Fhotel.qunar.com%2F&ref=http%3A%2F%2Fhotel.qunar.com%2F"
+1505287625382	Marionette	DEBUG	Received DOM event "pageshow" for "http://hotel.qunar.com/render/googlesem.jsp?lable=Ln-dCOin2AgQvKmD-AM&params=%7B%22AccessPage%22%3A%22home%22%7D&referer=&seq=undefined&location=%E5%8C%97%E4%BA%AC&hotelGrade=undefined&pagetype=home"
+1505287636343	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://history.qunar.com/history/newhistory.html?v=20121012"
+1505287636368	Marionette	DEBUG	Received DOM event "pageshow" for "http://history.qunar.com/history/newhistory.html?v=20121012"
+1505287636388	Marionette	DEBUG	Received DOM event "pageshow" for "http://hotel.qunar.com/"
+JavaScript warning: http://static.mediav.com/mv.js, line 1: unreachable code after return statement
+1505287639047	Marionette	DEBUG	Received DOM event "pagehide" for "http://hotel.qunar.com/render/ga_new.jsp#refresh=0"
+1505287639255	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505287640896	Marionette	DEBUG	Received DOM event "beforeunload" for "http://hotel.qunar.com/"
+1505287641232	Marionette	DEBUG	Received DOM event "hashchange" for "http://hotel.qunar.com/#"
+JavaScript warning: http://hotel.qunar.com/city/shanghai_city/#fromDate=2017-09-13&cityurl=shanghai_city&from=qunarHotel&toDate=2017-09-14&QHFP=ZSI0A4179965, line 67: String.trim is deprecated; use String.prototype.trim instead
+JavaScript warning: http://te.hotel.qunar.com/render/te, line 1: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript warning: http://te.hotel.qunar.com/render/te line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: http://static.mediav.com/mv.js, line 1: unreachable code after return statement
+[Parent 10532] WARNING: pipe error (62): Connection reset by peer: file /build/firefox-KXh8wm/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1505288564001	geckodriver	INFO	geckodriver 0.18.0
+1505288564011	geckodriver	INFO	Listening on 127.0.0.1:46715
+1505288564454	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1505288567028	Marionette	INFO	Enabled via --marionette
+1505288574777	Marionette	INFO	Listening on port 46857
+1505288574888	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505288575150	Marionette	DEBUG	loaded listener.js
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505288575311	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505288575519	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505288575522	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505288577964	Marionette	DEBUG	Received DOM event "pageshow" for "http://hotel.qunar.com/"
+1505288579586	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://hotel.qunar.com/"
+1505288579995	Marionette	DEBUG	Received DOM event "pageshow" for "http://hotel.qunar.com/"
+1505288582442	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1505288583780	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://history.qunar.com/history/newhistory.html?v=20121012"
+1505288583817	Marionette	DEBUG	Received DOM event "pageshow" for "http://history.qunar.com/history/newhistory.html?v=20121012"
+1505288583868	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://hotel.qunar.com/render/ga_new.jsp"
+1505288584850	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://hotel.qunar.com/render/googlesem.jsp?lable=Ln-dCOin2AgQvKmD-AM&params=%7B%22AccessPage%22%3A%22home%22%7D&referer=&seq=undefined&location=%E5%8C%97%E4%BA%AC&hotelGrade=undefined&pagetype=home"
+1505288584904	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.qunar.com/vataframe/b.html?_=20120808#rightMiddleAd_QAD"
+1505288584919	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.qunar.com/vataframe/b.html?_=20120808#rightMiddleAd_QAD"
+1505288585006	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://tuan.qunar.com/ext/sact/YfiMFn?v=1505288577295#isWider=1"
+1505288585012	Marionette	DEBUG	Received DOM event "pageshow" for "http://tuan.qunar.com/ext/sact/YfiMFn?v=1505288577295#isWider=1"
+1505288585091	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.qunar.com/vataframe/b.html?_=20120808#topAD"
+1505288585094	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.qunar.com/vataframe/b.html?_=20120808#topAD"
+1505288585101	Marionette	DEBUG	Received DOM event "pageshow" for "http://hotel.qunar.com/render/ga_new.jsp"
+1505288585212	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://googleads.g.doubleclick.net/pagead/viewthroughconversion/969017713/?random=1505288583729&cv=8&fst=1505288583729&num=1&fmt=1&guid=ON&u_h=1080&u_w=1920&u_ah=993&u_aw=1920&u_cd=24&u_his=1&u_tz=480&u_java=false&u_nplug=0&u_nmime=0&data=dynx_itemid%3Dundefined%3Bdynx_locid%3D%E5%8C%97%E4%BA%AC%3Bdynx_pagetype%3Dhome%3Bdynx_star%3Dundefined&frm=1&url=http%3A%2F%2Fhotel.qunar.com%2F&ref=http%3A%2F%2Fhotel.qunar.com%2F"
+1505288585224	Marionette	DEBUG	Received DOM event "pageshow" for "http://googleads.g.doubleclick.net/pagead/viewthroughconversion/969017713/?random=1505288583729&cv=8&fst=1505288583729&num=1&fmt=1&guid=ON&u_h=1080&u_w=1920&u_ah=993&u_aw=1920&u_cd=24&u_his=1&u_tz=480&u_java=false&u_nplug=0&u_nmime=0&data=dynx_itemid%3Dundefined%3Bdynx_locid%3D%E5%8C%97%E4%BA%AC%3Bdynx_pagetype%3Dhome%3Bdynx_star%3Dundefined&frm=1&url=http%3A%2F%2Fhotel.qunar.com%2F&ref=http%3A%2F%2Fhotel.qunar.com%2F"
+1505288585235	Marionette	DEBUG	Received DOM event "pageshow" for "http://hotel.qunar.com/render/googlesem.jsp?lable=Ln-dCOin2AgQvKmD-AM&params=%7B%22AccessPage%22%3A%22home%22%7D&referer=&seq=undefined&location=%E5%8C%97%E4%BA%AC&hotelGrade=undefined&pagetype=home"
+1505288585255	Marionette	DEBUG	Received DOM event "pageshow" for "http://hotel.qunar.com/"
+JavaScript warning: http://static.mediav.com/mv.js, line 1: unreachable code after return statement
+1505288592840	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505288593961	Marionette	DEBUG	Received DOM event "beforeunload" for "http://hotel.qunar.com/"
+1505288594033	Marionette	DEBUG	Received DOM event "hashchange" for "http://hotel.qunar.com/#"
+JavaScript warning: http://hotel.qunar.com/city/shanghai_city/#fromDate=2017-09-13&cityurl=&from=qunarHotel&toDate=2017-09-14&QHFP=ZSI0A43CFC8A, line 67: String.trim is deprecated; use String.prototype.trim instead
+JavaScript warning: http://te.hotel.qunar.com/render/te, line 1: unreachable code after return statement
+JavaScript warning: http://te.hotel.qunar.com/render/te line 1 > eval, line 1: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript warning: http://static.mediav.com/mv.js, line 1: unreachable code after return statement
+[Parent 10785] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-KXh8wm/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1505288894653	geckodriver	INFO	geckodriver 0.18.0
+1505288894668	geckodriver	INFO	Listening on 127.0.0.1:42497
+1505288896140	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1505288899048	Marionette	INFO	Enabled via --marionette
+1505288907429	Marionette	INFO	Listening on port 39389
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505288907527	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505288907726	Marionette	DEBUG	loaded listener.js
+1505288907820	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505288908009	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505288908010	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505288910158	Marionette	DEBUG	Received DOM event "pageshow" for "http://hotel.qunar.com/"
+1505288911216	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://hotel.qunar.com/"
+1505288911363	Marionette	DEBUG	Received DOM event "pageshow" for "http://hotel.qunar.com/"
+1505288912875	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://history.qunar.com/history/newhistory.html?v=20121012"
+1505288912899	Marionette	DEBUG	Received DOM event "pageshow" for "http://history.qunar.com/history/newhistory.html?v=20121012"
+1505288913064	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1505288913309	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://hotel.qunar.com/render/ga_new.jsp"
+1505288913346	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://tuan.qunar.com/ext/sact/YfiMFn?v=1505288909761#isWider=1"
+1505288913359	Marionette	DEBUG	Received DOM event "pageshow" for "http://tuan.qunar.com/ext/sact/YfiMFn?v=1505288909761#isWider=1"
+1505288913365	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://hotel.qunar.com/render/googlesem.jsp?lable=Ln-dCOin2AgQvKmD-AM&params=%7B%22AccessPage%22%3A%22home%22%7D&referer=&seq=undefined&location=%E5%8C%97%E4%BA%AC&hotelGrade=undefined&pagetype=home"
+1505288913392	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.qunar.com/vataframe/b.html?_=20120808#rightMiddleAd_QAD"
+1505288913407	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.qunar.com/vataframe/b.html?_=20120808#rightMiddleAd_QAD"
+1505288913543	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.qunar.com/vataframe/b.html?_=20120808#topAD"
+1505288913548	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.qunar.com/vataframe/b.html?_=20120808#topAD"
+1505288913825	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://googleads.g.doubleclick.net/pagead/viewthroughconversion/969017713/?random=1505288912988&cv=8&fst=1505288912988&num=1&fmt=1&guid=ON&eid=376635470&u_h=1080&u_w=1920&u_ah=993&u_aw=1920&u_cd=24&u_his=1&u_tz=480&u_java=false&u_nplug=0&u_nmime=0&data=dynx_itemid%3Dundefined%3Bdynx_locid%3D%E5%8C%97%E4%BA%AC%3Bdynx_pagetype%3Dhome%3Bdynx_star%3Dundefined&frm=1&url=http%3A%2F%2Fhotel.qunar.com%2F&ref=http%3A%2F%2Fhotel.qunar.com%2F"
+1505288913836	Marionette	DEBUG	Received DOM event "pageshow" for "http://googleads.g.doubleclick.net/pagead/viewthroughconversion/969017713/?random=1505288912988&cv=8&fst=1505288912988&num=1&fmt=1&guid=ON&eid=376635470&u_h=1080&u_w=1920&u_ah=993&u_aw=1920&u_cd=24&u_his=1&u_tz=480&u_java=false&u_nplug=0&u_nmime=0&data=dynx_itemid%3Dundefined%3Bdynx_locid%3D%E5%8C%97%E4%BA%AC%3Bdynx_pagetype%3Dhome%3Bdynx_star%3Dundefined&frm=1&url=http%3A%2F%2Fhotel.qunar.com%2F&ref=http%3A%2F%2Fhotel.qunar.com%2F"
+1505288913842	Marionette	DEBUG	Received DOM event "pageshow" for "http://hotel.qunar.com/render/googlesem.jsp?lable=Ln-dCOin2AgQvKmD-AM&params=%7B%22AccessPage%22%3A%22home%22%7D&referer=&seq=undefined&location=%E5%8C%97%E4%BA%AC&hotelGrade=undefined&pagetype=home"
+1505288913901	Marionette	DEBUG	Received DOM event "pageshow" for "http://hotel.qunar.com/render/ga_new.jsp"
+1505288913914	Marionette	DEBUG	Received DOM event "pageshow" for "http://hotel.qunar.com/"
+JavaScript warning: http://static.mediav.com/mv.js, line 1: unreachable code after return statement
+1505288918840	Marionette	DEBUG	Received DOM event "pagehide" for "http://ckmap.mediav.com/b?type=10&jzqs=m-388-0"
+1505288918992	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505288919922	Marionette	DEBUG	Received DOM event "beforeunload" for "http://hotel.qunar.com/"
+1505288919995	Marionette	DEBUG	Received DOM event "hashchange" for "http://hotel.qunar.com/#"
+JavaScript warning: http://hotel.qunar.com/city/shanghai_city/#fromDate=2017-09-13&cityurl=&from=qunarHotel&toDate=2017-09-14&QHFP=ZSI0A449F995, line 67: String.trim is deprecated; use String.prototype.trim instead
+JavaScript warning: http://te.hotel.qunar.com/render/te, line 1: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript warning: http://te.hotel.qunar.com/render/te line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: http://static.mediav.com/mv.js, line 1: unreachable code after return statement
+1505288967462	geckodriver	INFO	geckodriver 0.18.0
+1505288967473	geckodriver	INFO	Listening on 127.0.0.1:55097
+1505288969311	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1505288972092	Marionette	INFO	Enabled via --marionette
+1505288984173	Marionette	INFO	Listening on port 42219
+1505288984705	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505288984985	Marionette	DEBUG	loaded listener.js
+1505288985673	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505288985831	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505288985832	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505288991060	Marionette	DEBUG	Received DOM event "pageshow" for "http://hotel.qunar.com/"
+1505288991825	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://hotel.qunar.com/"
+1505288992354	Marionette	DEBUG	Received DOM event "pageshow" for "http://hotel.qunar.com/"
+1505288996389	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://hotel.qunar.com/render/ga_new.jsp"
+1505288996731	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://hotel.qunar.com/render/googlesem.jsp?lable=Ln-dCOin2AgQvKmD-AM&params=%7B%22AccessPage%22%3A%22home%22%7D&referer=&seq=undefined&location=%E5%8C%97%E4%BA%AC&hotelGrade=undefined&pagetype=home"
+1505288996788	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://tuan.qunar.com/ext/sact/YfiMFn?v=1505288991036#isWider=1"
+1505288996796	Marionette	DEBUG	Received DOM event "pageshow" for "http://tuan.qunar.com/ext/sact/YfiMFn?v=1505288991036#isWider=1"
+1505288996799	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1505288996800	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://history.qunar.com/history/newhistory.html?v=20121012"
+1505288996805	Marionette	DEBUG	Received DOM event "pageshow" for "http://history.qunar.com/history/newhistory.html?v=20121012"
+1505288996957	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.qunar.com/vataframe/b.html?_=20120808#rightMiddleAd_QAD"
+1505288996972	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.qunar.com/vataframe/b.html?_=20120808#rightMiddleAd_QAD"
+1505288997063	Marionette	DEBUG	Received DOM event "pageshow" for "http://hotel.qunar.com/render/ga_new.jsp"
+1505288997096	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://googleads.g.doubleclick.net/pagead/viewthroughconversion/969017713/?random=1505288996266&cv=8&fst=1505288996266&num=1&fmt=1&guid=ON&eid=376635470&u_h=1080&u_w=1920&u_ah=993&u_aw=1920&u_cd=24&u_his=1&u_tz=480&u_java=false&u_nplug=0&u_nmime=0&data=dynx_itemid%3Dundefined%3Bdynx_locid%3D%E5%8C%97%E4%BA%AC%3Bdynx_pagetype%3Dhome%3Bdynx_star%3Dundefined&frm=1&url=http%3A%2F%2Fhotel.qunar.com%2F&ref=http%3A%2F%2Fhotel.qunar.com%2F"
+1505288997134	Marionette	DEBUG	Received DOM event "pageshow" for "http://googleads.g.doubleclick.net/pagead/viewthroughconversion/969017713/?random=1505288996266&cv=8&fst=1505288996266&num=1&fmt=1&guid=ON&eid=376635470&u_h=1080&u_w=1920&u_ah=993&u_aw=1920&u_cd=24&u_his=1&u_tz=480&u_java=false&u_nplug=0&u_nmime=0&data=dynx_itemid%3Dundefined%3Bdynx_locid%3D%E5%8C%97%E4%BA%AC%3Bdynx_pagetype%3Dhome%3Bdynx_star%3Dundefined&frm=1&url=http%3A%2F%2Fhotel.qunar.com%2F&ref=http%3A%2F%2Fhotel.qunar.com%2F"
+1505288997136	Marionette	DEBUG	Received DOM event "pageshow" for "http://hotel.qunar.com/render/googlesem.jsp?lable=Ln-dCOin2AgQvKmD-AM&params=%7B%22AccessPage%22%3A%22home%22%7D&referer=&seq=undefined&location=%E5%8C%97%E4%BA%AC&hotelGrade=undefined&pagetype=home"
+1505288997179	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.qunar.com/vataframe/b.html?_=20120808#topAD"
+1505288997184	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.qunar.com/vataframe/b.html?_=20120808#topAD"
+1505288997557	Marionette	DEBUG	Received DOM event "pageshow" for "http://hotel.qunar.com/"
+JavaScript warning: http://static.mediav.com/mv.js, line 1: unreachable code after return statement
+1505289006385	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505289007860	Marionette	DEBUG	Received DOM event "beforeunload" for "http://hotel.qunar.com/"
+1505289008028	Marionette	DEBUG	Received DOM event "hashchange" for "http://hotel.qunar.com/#"
+JavaScript warning: http://hotel.qunar.com/city/shanghai_city/#fromDate=2017-09-13&cityurl=&from=qunarHotel&toDate=2017-09-14&QHFP=ZSI0A44D03E1, line 67: String.trim is deprecated; use String.prototype.trim instead
+JavaScript warning: http://te.hotel.qunar.com/render/te, line 1: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript warning: http://te.hotel.qunar.com/render/te line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: http://static.mediav.com/mv.js, line 1: unreachable code after return statement
+1505289188976	geckodriver	INFO	geckodriver 0.18.0
+1505289188995	geckodriver	INFO	Listening on 127.0.0.1:53241
+1505289189682	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1505289195505	Marionette	INFO	Enabled via --marionette
+1505289209390	Marionette	INFO	Listening on port 42447
+1505289209498	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505289209832	Marionette	DEBUG	loaded listener.js
+1505289209924	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505289210249	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505289210250	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505289214224	Marionette	DEBUG	Received DOM event "pageshow" for "http://hotel.qunar.com/"
+1505289217406	Marionette	DEBUG	Received DOM event "pageshow" for "http://hotel.qunar.com/"
+1505289217942	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://hotel.qunar.com/"
+1505289220653	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1505289221287	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://hotel.qunar.com/render/ga_new.jsp"
+1505289221289	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://history.qunar.com/history/newhistory.html?v=20121012"
+1505289221315	Marionette	DEBUG	Received DOM event "pageshow" for "http://history.qunar.com/history/newhistory.html?v=20121012"
+1505289221766	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://hotel.qunar.com/render/googlesem.jsp?lable=Ln-dCOin2AgQvKmD-AM&params=%7B%22AccessPage%22%3A%22home%22%7D&referer=&seq=undefined&location=%E5%8C%97%E4%BA%AC&hotelGrade=undefined&pagetype=home"
+1505289221889	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://tuan.qunar.com/ext/sact/YfiMFn?v=1505289214173#isWider=1"
+1505289221904	Marionette	DEBUG	Received DOM event "pageshow" for "http://tuan.qunar.com/ext/sact/YfiMFn?v=1505289214173#isWider=1"
+1505289221904	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.qunar.com/vataframe/b.html?_=20120808#rightMiddleAd_QAD"
+1505289221928	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.qunar.com/vataframe/b.html?_=20120808#rightMiddleAd_QAD"
+1505289222325	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.qunar.com/vataframe/b.html?_=20120808#topAD"
+1505289222331	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.qunar.com/vataframe/b.html?_=20120808#topAD"
+1505289222382	Marionette	DEBUG	Received DOM event "pageshow" for "http://hotel.qunar.com/render/ga_new.jsp"
+1505289222387	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://googleads.g.doubleclick.net/pagead/viewthroughconversion/969017713/?random=1505289220680&cv=8&fst=1505289220680&num=1&fmt=1&guid=ON&eid=376635470&u_h=1080&u_w=1920&u_ah=993&u_aw=1920&u_cd=24&u_his=1&u_tz=480&u_java=false&u_nplug=0&u_nmime=0&data=dynx_itemid%3Dundefined%3Bdynx_locid%3D%E5%8C%97%E4%BA%AC%3Bdynx_pagetype%3Dhome%3Bdynx_star%3Dundefined&frm=1&url=http%3A%2F%2Fhotel.qunar.com%2F&ref=http%3A%2F%2Fhotel.qunar.com%2F"
+1505289222404	Marionette	DEBUG	Received DOM event "pageshow" for "http://googleads.g.doubleclick.net/pagead/viewthroughconversion/969017713/?random=1505289220680&cv=8&fst=1505289220680&num=1&fmt=1&guid=ON&eid=376635470&u_h=1080&u_w=1920&u_ah=993&u_aw=1920&u_cd=24&u_his=1&u_tz=480&u_java=false&u_nplug=0&u_nmime=0&data=dynx_itemid%3Dundefined%3Bdynx_locid%3D%E5%8C%97%E4%BA%AC%3Bdynx_pagetype%3Dhome%3Bdynx_star%3Dundefined&frm=1&url=http%3A%2F%2Fhotel.qunar.com%2F&ref=http%3A%2F%2Fhotel.qunar.com%2F"
+1505289222413	Marionette	DEBUG	Received DOM event "pageshow" for "http://hotel.qunar.com/render/googlesem.jsp?lable=Ln-dCOin2AgQvKmD-AM&params=%7B%22AccessPage%22%3A%22home%22%7D&referer=&seq=undefined&location=%E5%8C%97%E4%BA%AC&hotelGrade=undefined&pagetype=home"
+1505289222491	Marionette	DEBUG	Received DOM event "pageshow" for "http://hotel.qunar.com/"
+JavaScript warning: http://static.mediav.com/mv.js, line 1: unreachable code after return statement
+1505289229278	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505289230061	Marionette	DEBUG	Received DOM event "beforeunload" for "http://hotel.qunar.com/"
+1505289230132	Marionette	DEBUG	Received DOM event "hashchange" for "http://hotel.qunar.com/#"
+JavaScript warning: http://hotel.qunar.com/city/shanghai_city/#fromDate=2017-09-13&cityurl=&from=qunarHotel&toDate=2017-09-14&QHFP=ZSI0A455C6E5, line 67: String.trim is deprecated; use String.prototype.trim instead
+JavaScript warning: http://te.hotel.qunar.com/render/te, line 1: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript warning: http://te.hotel.qunar.com/render/te line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: http://static.mediav.com/mv.js, line 1: unreachable code after return statement
+1505289253269	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505289278264	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505289302680	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505289327753	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505289356385	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505289381608	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505289530799	geckodriver	INFO	geckodriver 0.18.0
+1505289530867	geckodriver	INFO	Listening on 127.0.0.1:55991
+1505289532553	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1505289543910	Marionette	INFO	Enabled via --marionette
+1505289568237	Marionette	INFO	Listening on port 42461
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505289568406	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505289568712	Marionette	DEBUG	loaded listener.js
+1505289569085	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505289569307	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505289569309	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505289574625	Marionette	DEBUG	Received DOM event "pageshow" for "http://hotel.qunar.com/"
+1505289576402	Marionette	DEBUG	Received DOM event "pageshow" for "http://hotel.qunar.com/"
+1505289576841	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://hotel.qunar.com/"
+1505289579050	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1505289579109	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://history.qunar.com/history/newhistory.html?v=20121012"
+1505289579164	Marionette	DEBUG	Received DOM event "pageshow" for "http://history.qunar.com/history/newhistory.html?v=20121012"
+1505289581133	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://hotel.qunar.com/render/ga_new.jsp"
+1505289581157	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.qunar.com/vataframe/b.html?_=20120808#rightMiddleAd_QAD"
+1505289581188	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.qunar.com/vataframe/b.html?_=20120808#rightMiddleAd_QAD"
+1505289581389	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://hotel.qunar.com/render/googlesem.jsp?lable=Ln-dCOin2AgQvKmD-AM&params=%7B%22AccessPage%22%3A%22home%22%7D&referer=&seq=undefined&location=%E5%8C%97%E4%BA%AC&hotelGrade=undefined&pagetype=home"
+1505289581575	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://tuan.qunar.com/ext/sact/YfiMFn?v=1505289573213#isWider=1"
+1505289581605	Marionette	DEBUG	Received DOM event "pageshow" for "http://tuan.qunar.com/ext/sact/YfiMFn?v=1505289573213#isWider=1"
+1505289581823	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.qunar.com/vataframe/b.html?_=20120808#topAD"
+1505289581838	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.qunar.com/vataframe/b.html?_=20120808#topAD"
+1505289582148	Marionette	DEBUG	Received DOM event "pageshow" for "http://hotel.qunar.com/render/ga_new.jsp"
+1505289582153	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://bid.g.doubleclick.net/xbbe/pixel?d=KAE"
+1505289582171	Marionette	DEBUG	Received DOM event "pageshow" for "http://bid.g.doubleclick.net/xbbe/pixel?d=KAE"
+1505289582228	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://googleads.g.doubleclick.net/pagead/viewthroughconversion/969017713/?random=1505289580666&cv=8&fst=1505289580666&num=1&fmt=1&guid=ON&eid=376635471&u_h=1080&u_w=1920&u_ah=993&u_aw=1920&u_cd=24&u_his=1&u_tz=480&u_java=false&u_nplug=0&u_nmime=0&data=dynx_itemid%3Dundefined%3Bdynx_locid%3D%E5%8C%97%E4%BA%AC%3Bdynx_pagetype%3Dhome%3Bdynx_star%3Dundefined&frm=1&url=http%3A%2F%2Fhotel.qunar.com%2F&ref=http%3A%2F%2Fhotel.qunar.com%2F"
+1505289582243	Marionette	DEBUG	Received DOM event "pageshow" for "http://googleads.g.doubleclick.net/pagead/viewthroughconversion/969017713/?random=1505289580666&cv=8&fst=1505289580666&num=1&fmt=1&guid=ON&eid=376635471&u_h=1080&u_w=1920&u_ah=993&u_aw=1920&u_cd=24&u_his=1&u_tz=480&u_java=false&u_nplug=0&u_nmime=0&data=dynx_itemid%3Dundefined%3Bdynx_locid%3D%E5%8C%97%E4%BA%AC%3Bdynx_pagetype%3Dhome%3Bdynx_star%3Dundefined&frm=1&url=http%3A%2F%2Fhotel.qunar.com%2F&ref=http%3A%2F%2Fhotel.qunar.com%2F"
+1505289582265	Marionette	DEBUG	Received DOM event "pageshow" for "http://hotel.qunar.com/render/googlesem.jsp?lable=Ln-dCOin2AgQvKmD-AM&params=%7B%22AccessPage%22%3A%22home%22%7D&referer=&seq=undefined&location=%E5%8C%97%E4%BA%AC&hotelGrade=undefined&pagetype=home"
+1505289582355	Marionette	DEBUG	Received DOM event "pageshow" for "http://hotel.qunar.com/"
+JavaScript warning: http://static.mediav.com/mv.js, line 1: unreachable code after return statement
+1505289592562	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505289594366	Marionette	DEBUG	Received DOM event "beforeunload" for "http://hotel.qunar.com/"
+1505289594722	Marionette	DEBUG	Received DOM event "hashchange" for "http://hotel.qunar.com/#"
+JavaScript warning: http://hotel.qunar.com/city/shanghai_city/#fromDate=2017-09-13&cityurl=&from=qunarHotel&toDate=2017-09-14&QHFP=ZSI0A463CE3C, line 67: String.trim is deprecated; use String.prototype.trim instead
+JavaScript warning: http://te.hotel.qunar.com/render/te, line 1: unreachable code after return statement
+JavaScript warning: http://te.hotel.qunar.com/render/te line 1 > eval, line 1: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1505289625001	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: http://static.mediav.com/mv.js, line 1: unreachable code after return statement
+1505289652966	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505289677371	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 11468] WARNING: pipe error (67): Connection reset by peer: file /build/firefox-KXh8wm/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1505289818025	geckodriver	INFO	geckodriver 0.18.0
+1505289818099	geckodriver	INFO	Listening on 127.0.0.1:39345
+1505289819769	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1505289826043	Marionette	INFO	Enabled via --marionette
+1505289841904	Marionette	INFO	Listening on port 39387
+1505289842114	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505289842406	Marionette	DEBUG	loaded listener.js
+1505289842775	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505289842986	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505289842988	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505289850312	Marionette	DEBUG	Received DOM event "pageshow" for "http://hotel.qunar.com/"
+1505289852474	Marionette	DEBUG	Received DOM event "pageshow" for "http://hotel.qunar.com/"
+1505289854692	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://hotel.qunar.com/"
+1505289857005	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1505289857724	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://history.qunar.com/history/newhistory.html?v=20121012"
+1505289857813	Marionette	DEBUG	Received DOM event "pageshow" for "http://history.qunar.com/history/newhistory.html?v=20121012"
+1505289857849	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://hotel.qunar.com/render/ga_new.jsp"
+1505289858065	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://hotel.qunar.com/render/googlesem.jsp?lable=Ln-dCOin2AgQvKmD-AM&params=%7B%22AccessPage%22%3A%22home%22%7D&referer=&seq=undefined&location=%E5%8C%97%E4%BA%AC&hotelGrade=undefined&pagetype=home"
+1505289858170	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://tuan.qunar.com/ext/sact/YfiMFn?v=1505289848686#isWider=1"
+1505289858181	Marionette	DEBUG	Received DOM event "pageshow" for "http://tuan.qunar.com/ext/sact/YfiMFn?v=1505289848686#isWider=1"
+1505289858213	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.qunar.com/vataframe/b.html?_=20120808#rightMiddleAd_QAD"
+1505289858250	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.qunar.com/vataframe/b.html?_=20120808#rightMiddleAd_QAD"
+1505289858363	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.qunar.com/vataframe/b.html?_=20120808#topAD"
+1505289858374	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.qunar.com/vataframe/b.html?_=20120808#topAD"
+1505289858549	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://googleads.g.doubleclick.net/pagead/viewthroughconversion/969017713/?random=1505289856675&cv=8&fst=1505289856675&num=1&fmt=1&guid=ON&u_h=1080&u_w=1920&u_ah=993&u_aw=1920&u_cd=24&u_his=1&u_tz=480&u_java=false&u_nplug=0&u_nmime=0&data=dynx_itemid%3Dundefined%3Bdynx_locid%3D%E5%8C%97%E4%BA%AC%3Bdynx_pagetype%3Dhome%3Bdynx_star%3Dundefined&frm=1&url=http%3A%2F%2Fhotel.qunar.com%2F&ref=http%3A%2F%2Fhotel.qunar.com%2F"
+1505289858561	Marionette	DEBUG	Received DOM event "pageshow" for "http://googleads.g.doubleclick.net/pagead/viewthroughconversion/969017713/?random=1505289856675&cv=8&fst=1505289856675&num=1&fmt=1&guid=ON&u_h=1080&u_w=1920&u_ah=993&u_aw=1920&u_cd=24&u_his=1&u_tz=480&u_java=false&u_nplug=0&u_nmime=0&data=dynx_itemid%3Dundefined%3Bdynx_locid%3D%E5%8C%97%E4%BA%AC%3Bdynx_pagetype%3Dhome%3Bdynx_star%3Dundefined&frm=1&url=http%3A%2F%2Fhotel.qunar.com%2F&ref=http%3A%2F%2Fhotel.qunar.com%2F"
+1505289858566	Marionette	DEBUG	Received DOM event "pageshow" for "http://hotel.qunar.com/render/googlesem.jsp?lable=Ln-dCOin2AgQvKmD-AM&params=%7B%22AccessPage%22%3A%22home%22%7D&referer=&seq=undefined&location=%E5%8C%97%E4%BA%AC&hotelGrade=undefined&pagetype=home"
+1505289858834	Marionette	DEBUG	Received DOM event "pageshow" for "http://hotel.qunar.com/render/ga_new.jsp"
+1505289858873	Marionette	DEBUG	Received DOM event "pageshow" for "http://hotel.qunar.com/"
+JavaScript warning: http://static.mediav.com/mv.js, line 1: unreachable code after return statement
+1505289864504	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505289866182	Marionette	DEBUG	Received DOM event "beforeunload" for "http://hotel.qunar.com/"
+1505289866303	Marionette	DEBUG	Received DOM event "hashchange" for "http://hotel.qunar.com/#"
+JavaScript warning: http://hotel.qunar.com/city/shanghai_city/#fromDate=2017-09-13&cityurl=shanghai_city&from=qunarHotel&toDate=2017-09-14&QHFP=ZSI0A46E7EB1, line 67: String.trim is deprecated; use String.prototype.trim instead
+JavaScript warning: http://te.hotel.qunar.com/render/te, line 1: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript warning: http://te.hotel.qunar.com/render/te line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: http://static.mediav.com/mv.js, line 1: unreachable code after return statement
+1505289888649	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505289913886	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505289938097	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 11643] WARNING: pipe error (63): Connection reset by peer: file /build/firefox-KXh8wm/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
